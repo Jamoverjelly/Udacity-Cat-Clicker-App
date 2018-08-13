@@ -17,4 +17,4 @@ This app will be built while completing the lessons in Udacity's first unit on f
 
 Alma!!!
 
-![Alt text](./Alma-in-a-basket.jpg)
+![Alt text](https://github.com/Jamoverjelly/Udacity-Cat-Clicker-App/blob/master/Alma-in-a-basket.jpg)
