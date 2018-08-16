@@ -105,6 +105,18 @@ const cat2 = Cat(
     "Little-Black",
     "https://res.cloudinary.com/da6db8qdd/image/upload/v1534442275/cat-clicker/Little-Black.jpg"
 );
+const cat3 = Cat(
+    "Jelly",
+    "https://res.cloudinary.com/da6db8qdd/image/upload/v1534453858/cat-clicker/Jelly.jpg"
+);
+const cat4 = Cat(
+    "Poseidon",
+    "https://res.cloudinary.com/da6db8qdd/image/upload/v1534453858/cat-clicker/Poseidon.jpg"
+);
+const cat5 = Cat(
+    "Gaia",
+    "https://res.cloudinary.com/da6db8qdd/image/upload/v1534453858/cat-clicker/Gaia.jpg"
+);
 
 // Start up the cat app!
 catController.init();
