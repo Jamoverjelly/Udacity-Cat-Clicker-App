@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
@@ -12,18 +11,25 @@
 </head>
 
 <body>
-    <div class="container">
-        <header>
-            <h1>Cat Clicker</h1>
-        </header>
 
-        <img src="img/Alma-in-a-basket.jpg" alt="Alma">
-        <p>click count:
-            <span class="count">0</span>
-        </p>
+    <section class="app_intro">
+        <h1 class="main_title">Cat Clicker</h1>
+    </section>
 
-    </div>
+    <main class="main_container">
+        <ul id="cat_list">
+            <h4 class="cat_title">Cat names:</h4>
+        </ul>
 
+        <div id="cat_display">
+            <h4 class="cat_name"></h4>
+            <div class="counter">
+                <h4 class="counter_title">Clicks:</h4>
+                <p class="counter_clicks"></p>
+            </div>
+            <img src="" alt="cat" class="cat_img">
+        </div>
+    </main>
 
     <script src="js/app.js"></script>
 </body>

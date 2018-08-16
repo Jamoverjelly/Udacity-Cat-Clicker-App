@@ -2,6 +2,17 @@
 
 This app will be built while completing the lessons in Udacity's first unit on front end application developement, Changing Expectations. It is based on Ben Jaffe's original online hit game, Cow Clicker
 
+#### Inspiration
+
+Alma
+
+![Alt text](https://res.cloudinary.com/da6db8qdd/image/upload/v1534442275/cat-clicker/Alma-in-a-basket.jpg)
+
+Little-Black
+
+![Alt text](https://res.cloudinary.com/da6db8qdd/image/upload/v1534442275/cat-clicker/Little-Black.jpg)
+
+
 ### Version One Requirements
 
 #### Visuals
@@ -12,12 +23,6 @@ This app will be built while completing the lessons in Udacity's first unit on f
 #### Interaction
 
 - The number of clicks should increment when the cat picture is clicked.
-
-#### Inspiration
-
-Alma!!!
-
-![Alt text](https://github.com/Jamoverjelly/Udacity-Cat-Clicker-App/blob/master/Alma-in-a-basket.jpg)
 
 
 ### Version Two Requirements
