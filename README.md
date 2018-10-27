@@ -1,6 +1,6 @@
 # Cat Clicker App
 
-This app will be built while completing the lessons in Udacity's first unit on front end application developement, Changing Expectations. It is based on Ben Jaffe's original online hit game, Cow Clicker
+This app will be built while completing the lessons in Udacity's first unit on front end application developement, Changing Expectations. It is based on Ian Bogost's original online hit game, Cow Clicker
 
 #### Inspiration
 
